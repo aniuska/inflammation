@@ -1,1 +1,5 @@
+
 Version control skills would also be useful.
+
+We nned data about patients, wards, data, temperature
+We also need to decide excatly how we will analyse the data
