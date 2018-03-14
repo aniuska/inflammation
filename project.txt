@@ -2,3 +2,4 @@ some initial notes on data analysis to identify how inflammation changes over ti
 
 Jane is Data Scientist and Smit is a statistician. We will need to determine whio is responsible for blalalala
 
+We may need to bring a third person with Python or R programming skills.
